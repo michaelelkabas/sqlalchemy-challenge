@@ -1,7 +1,7 @@
-In this assignment the use Python and SQLAlchemy to do a basic climate analysis and data exploration of your climate database. 
-Specifically, you’ll use SQLAlchemy ORM queries, Pandas, and Matplotlib. 
-The provided files (climate_starter.ipynb and hawaii.sqlite) are used to complete your climate analysis and data exploration located 
-inside this local Git repository, create a directory for this Challenge. The folder name that corresponds to the Challenge is SurfsUp.
+In this assignment we use Python and SQLAlchemy to do a basic climate analysis and data exploration of your climate database. 
+Specifically, we use SQLAlchemy ORM queries, Pandas, and Matplotlib. 
+The provided files (climate_starter.ipynb and hawaii.sqlite) are used to complete the climate analysis and data exploration located 
+inside this local Git repository is a directory for this Challenge. The folder name that corresponds to the Challenge is SurfsUp.
 Jupyter notebook and app.py is in this folder. they contain the main scripts to run for analysis. 
 Also the Resources folder contains the data files needed for this challenge.
 
