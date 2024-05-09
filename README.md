@@ -9,5 +9,5 @@ App.py supports the following APIs:
 /api/v1.0/precipitation - Convert the query results from your precipitation analysis (i.e. retrieve only the last 12 months of data) to a dictionary using date as the key and prcp as the value
 /api/v1.0/stations - Return a JSON list of stations from the dataset
 /api/v1.0/tobs - Query the dates and temperature observations of the most-active station for the previous year of data. Return a JSON list of temperature observations for the previous year.
-/api/v1.0/start_date - /api/v1.0/<start> (YYYY-MM-DD) and /api/v1.0/<start>/<end> (YYYY-MM-DD). Return a JSON list of the minimum temperature, the average temperature, and the maximum temperature for a specified start or start-end range.
+/api/v1.0/start_date - /api/v1.0/<start> (user inputs YYYY-MM-DD) and /api/v1.0/<start>/<end> (user inputs YYYY-MM-DD). Return a JSON list of the minimum temperature, the average temperature, and the maximum temperature for a specified start or start-end range.
 /api/v1.0/start_date/end_date - Range of dates per above
